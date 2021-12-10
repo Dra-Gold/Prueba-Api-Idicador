@@ -1,0 +1,15 @@
+La función del DESARROLLADOR JUNIOR PHP que estamos buscando es 
+eminentemente desarrollar, por lo que para evaluarte necesitamos pedirte
+ justamente eso, una tarea simple que no te tome tanto tiempo y que le 
+ permita a los que van a ser tus compañeros determinar como enfrentas un 
+ problema simple.
+
+La TAREA (la puedes enviar hasta 10 días después de este correo, 
+mientras antes mejor )
+Usando los datos de la API (mindicador.cl), generar un gráfico en 
+donde pueda seleccionar tipo de indicador y despliegue datos con 
+fecha desde hasta
+Hacer un mantenedor de los datos históricos de UF, y permitir 
+modificarlos a través de un CRUD (Requisito PHP Codeigniter, usando AJAX)
+Lo revisara quienes serán tus compañeros, si pones mas cariño, 
+vas a tener mejor evaluación
